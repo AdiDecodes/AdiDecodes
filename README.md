@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">An Android App developer!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidecodes" alt="adidecodes" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/__adityyaa" target="blank"><img src="https://img.shields.io/twitter/follow/__adityyaa?logo=twitter&style=for-the-badge" alt="__adityyaa" /></a> </p>
-
 - 🔭 I’m currently working on **CleverStudio**
 
 - 📫 How to reach me **aditya@cleverstudio.in**
