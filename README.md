@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">An Android App developer!</h3>
-<img align = "right alt = "coding" width = "400" src = "https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif%22%3E
+<img align = "right alt = "coding" width = "400" src = "
 - 🔭 I’m currently working on CleverStudio
 
 - 📫 How to reach me aditya@cleverstudio.in
