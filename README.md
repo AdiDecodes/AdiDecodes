@@ -5,7 +5,7 @@
 
 - 📫 How to reach me aditya@cleverstudio.in
 
-- ⚡ Fun fact App >>>> Web 🙂
+- ⚡ Fun fact | App >>>> Web 🙂
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
