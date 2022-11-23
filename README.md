@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">An Android App developer!</h3>
+<h3 align="center">Programming Enthusiast!</h3>
 <img align = "right alt = "coding" width = "400" src = "https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47kywzev2elyxu9y3pdkqo5uae9rd06pt2gfuw4s3u&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on CleverStudio
 
