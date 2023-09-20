@@ -19,5 +19,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/adidecodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adidecodes" /></a></p><br><br><br>
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adidecodes&show_icons=true&locale=en&layout=compact" alt="adidecodes" /></p><br><br><br><br><br><br><br>
+<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adidecodes&show_icons=true&locale=en&layout=compact" alt="adidecodes" /></p><br><br><br><br><br><br><br><br>
 <p><img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adidecodes&" alt="adidecodes" /></p>
