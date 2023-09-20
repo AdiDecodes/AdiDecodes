@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya Singh</h1>
-<h3 align="center">A passionate frontend developer from India working with technologies like React and NodeJS. Willing to contribute in any open source project.</h3>
+<h1 align="left">Hi 👋, I'm Aditya Singh</h1>
+<h3 align="left">A passionate frontend developer from India working with technologies like React and NodeJS. Willing to contribute in any open source project.</h3>
 
 - 👨‍💻 All of my projects are available at [bit.ly/magic-url](bit.ly/magic-url)
 
