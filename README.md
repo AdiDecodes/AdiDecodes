@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="left">A passionate frontend developer from India working with technologies like React and NodeJS. Willing to contribute in any open source project.</h3>
 
-- 👨‍💻 All of my projects are available at [bit.ly/magic-url](https://bit.ly/magic-url)
+- 👨‍💻 All of my projects are available [Here](https://bit.ly/magic-url)
 
 - 💬 Ask me about **React, NextJS**
 
