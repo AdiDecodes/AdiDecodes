@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from India working with technologies like React and NodeJS. Willing to contribute in any open source project.<br>👨‍💻 All of my projects are available Here<br>💬 Ask me about React, NextJS<br>📫 How to reach me aditya@cleverstudio.in
+<h3>A passionate frontend developer from India working with technologies like React and NodeJS. Willing to contribute in any open source project.</h3><br>👨‍💻 All of my projects are available Here<br>💬 Ask me about React, NextJS<br>📫 How to reach me aditya@cleverstudio.in
 
 
 ## 🌐 Socials:
