@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 <h3>A passionate frontend developer from India working with technologies like React and NodeJS. Willing to contribute in any open source project.</h3><br>👨‍💻 All of my projects are available <a href = "https://bit.ly/magic-url">Here</a><br>💬 Ask me about React, NextJS<br>📫 How to reach me <a href="mailto:aditya@cleverstudio.in">aditya@cleverstudio.in</a>
 
 
