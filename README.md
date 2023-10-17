@@ -63,3 +63,9 @@
 </picture>
 
 ###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adidecodes.adidecodes&left_color=black&right_color=darkorange&left_text=Visitors"  />
+</div>
+
+###
