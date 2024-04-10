@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="130" width="100" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771591/img-1_syt73c.png"  />
+  <img height="100" width="auto" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771591/img-1_syt73c.png"  />
 </div>
 
 ###
