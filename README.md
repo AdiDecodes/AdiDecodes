@@ -43,7 +43,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:aditya@cleverstudio.in" target="_blank">
+  <a href="mailto:contact@adidecodes.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_.adityyaa/" target="_blank">
