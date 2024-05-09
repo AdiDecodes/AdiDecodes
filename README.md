@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" width="auto" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771736/img1_con6da.png"  />
+  <img height="100" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771736/img1_con6da.png"  />
 </div>
 
 ###
@@ -22,11 +22,11 @@
 
 ###
 
-<h4 align="left">Tech stack I use most</h4>
+<h4 align="center">Tech stack I use most</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="35" alt="express logo"  />
@@ -38,15 +38,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="35" alt="sass logo"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto:contact@adidecodes.me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=EMail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/_.adityyaa/" target="_blank">
+  <a href="https://www.instagram.com/adit.yaml/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/singhaditya18/" target="_blank">
@@ -56,11 +58,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/adidecodes/adidecodes/output/snake.svg" alt="Snake animation" />
 
 ###
 
