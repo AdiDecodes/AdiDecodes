@@ -5,7 +5,7 @@
 ###
 
 <div align="right">
-  <img height="325" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198213/1350469_n13qmz.png"  />
+  <img height="325" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198552/download-compresskaru.com_upch4j.png"  />
 </div>
 
 ###
