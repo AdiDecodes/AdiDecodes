@@ -4,8 +4,8 @@
 
 ###
 
-<div align="right">
-  <img height="325" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198892/gif_prog_xlc7f2.gif"  />
+<div align="left">
+  <img height="500" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198892/gif_prog_xlc7f2.gif"  />
 </div>
 
 ###
