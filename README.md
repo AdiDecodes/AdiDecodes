@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  <img height="500" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198892/gif_prog_xlc7f2.gif"  />
+  <img height="400" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198892/gif_prog_xlc7f2.gif"  />
 </div>
 
 ###
