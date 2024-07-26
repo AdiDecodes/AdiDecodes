@@ -5,7 +5,7 @@
 ###
 
 <div align="right">
-  <img height="675" src="[https://images6.alphacoders.com/135/1350469.png](https://res.cloudinary.com/domebtgvk/image/upload/v1722016008/img-bg_11zon_ihanhe.png)"  />
+  <img height="675" src="https://res.cloudinary.com/domebtgvk/image/upload/v1722016008/img-bg_11zon_ihanhe.png"  />
 </div>
 
 ###
