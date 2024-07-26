@@ -5,7 +5,7 @@
 ###
 
 <div align="right">
-  <img height="500" src="https://res.cloudinary.com/domebtgvk/image/upload/v1722016008/img-bg_11zon_ihanhe.png"  />
+  <img height="480" src="https://res.cloudinary.com/domebtgvk/image/upload/v1722016008/img-bg_11zon_ihanhe.png"  />
 </div>
 
 ###
