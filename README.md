@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="70" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771736/img1_con6da.png"  />
+  <img height="100" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771736/img1_con6da.png"  />
 </div>
 
 ###
 
 <div align="right">
-  <img height="675" src="https://res.cloudinary.com/domebtgvk/image/upload/v1722016008/img-bg_11zon_ihanhe.png"  />
+  <img height="500" src="https://res.cloudinary.com/domebtgvk/image/upload/v1722016008/img-bg_11zon_ihanhe.png"  />
 </div>
 
 ###
