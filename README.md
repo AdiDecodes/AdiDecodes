@@ -1,11 +1,11 @@
-<div align="left">
+<div align="center">
   <img height="100" src="https://res.cloudinary.com/customzone-app/image/upload/v1712771736/img1_con6da.png"  />
 </div>
 
 ###
 
-<div align="left">
-  <img height="400" src="https://res.cloudinary.com/domebtgvk/image/upload/v1721198892/gif_prog_xlc7f2.gif"  />
+<div align="right">
+  <img height="675" src="https://images6.alphacoders.com/135/1350469.png"  />
 </div>
 
 ###
@@ -14,9 +14,9 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=adidecodes&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adidecodes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adidecodes&locale=en&hide_title=false&layout=default%20&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adidecodes&theme=dracula&hide_border=true&area=false" height="150" alt="activity-graph graph"  />
 </div>
 
@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
@@ -85,6 +87,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/adidecodes/count.svg?"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adidecodes.adidecodes&left_text=Seen%20By"  />
 
 ###
