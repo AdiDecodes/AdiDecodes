@@ -61,9 +61,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adidecodes/adidecodes/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adidecodes/adidecodes/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adidecodes/adidecodes/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/AdiDecodes/AdiDecodes/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ###
